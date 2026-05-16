@@ -1,0 +1,228 @@
+{
+  "pages/home/hero-kids": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2237526779",
+    "searchQuery": "happy children learning language on tablet colorful fun",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1607117860",
+      "https://img1.wsimg.com/isteam/getty/2259257749"
+    ],
+    "userModified": false,
+    "createdAt": "2026-04-08T05:55:27.231Z",
+    "lastUpdated": "2026-04-08T05:55:27.231Z",
+    "gettyId": "2237526779",
+    "alternativeGettyIds": [
+      "1607117860",
+      "2259257749"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "numberOfPeople": "group",
+    "ageOfPeople": "child"
+  },
+  "pages/home/parent-dashboard": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-parent-dashboard-3b949cdd.jpg",
+    "searchQuery": "parent and child using educational app together tablet",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1435658628",
+      "https://img1.wsimg.com/isteam/getty/1356374134",
+      "https://img1.wsimg.com/isteam/getty/1367559287"
+    ],
+    "userModified": true,
+    "createdAt": "2026-04-08T05:55:28.536Z",
+    "lastUpdated": "2026-04-08T07:13:18.050Z",
+    "alternativeGettyIds": [
+      "1435658628",
+      "1356374134",
+      "1367559287"
+    ],
+    "requestedSize": {
+      "width": 700,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "ageOfPeople": "child,adult",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-parent-dashboard-3b949cdd.jpg": "6nnpwsmi6z_1775632398046_file_teqfvp4V6j.jpg"
+    }
+  },
+  "pages/home/celebration": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1133012994",
+    "searchQuery": "colorful confetti celebration reward achievement kids",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/595330884",
+      "https://img1.wsimg.com/isteam/getty/85322769"
+    ],
+    "userModified": false,
+    "createdAt": "2026-04-08T05:55:29.989Z",
+    "lastUpdated": "2026-04-08T05:55:29.989Z",
+    "gettyId": "1133012994",
+    "alternativeGettyIds": [
+      "595330884",
+      "85322769"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal"
+  },
+  "pages/unknown/bubu-mascot": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-unknown-bubu-mascot-a859d8b6.png",
+    "searchQuery": "",
+    "alternatives": [
+      "/airo-assets/uploads/pages-unknown-bubu-mascot-a33d751a.png"
+    ],
+    "userModified": true,
+    "sourceRef": "src/layouts/parts/Header.tsx:38",
+    "createdAt": "2026-04-08T07:13:33.011Z",
+    "lastUpdated": "2026-04-08T07:13:53.178Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-unknown-bubu-mascot-a859d8b6.png": "6nnpwsmi6z_1775629333574_file_BgheS8CwuN.png"
+    }
+  },
+  "pages/home/bubu-your-language-learning-companion": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-bubu-your-language-learning-companion-5f322743.png",
+    "searchQuery": "",
+    "alternatives": [
+      "/assets/bubutalk-boy-mascot.png"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/index.tsx:288",
+    "createdAt": "2026-04-09T15:15:03.004Z",
+    "lastUpdated": "2026-04-09T15:15:48.855Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-bubu-your-language-learning-companion-5f322743.png": "6nnpwsmi6z_1775747748841_file_KOdiXH5xEp.png"
+    }
+  },
+  "pages/unknown/bubu-mascot-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-unknown-bubu-mascot-2-f1e465c2.png",
+    "searchQuery": "",
+    "alternatives": [
+      "/assets/bubutalk-boy-mascot.png"
+    ],
+    "userModified": true,
+    "sourceRef": "src/components/BubuChat.tsx:322",
+    "createdAt": "2026-04-09T15:16:18.852Z",
+    "lastUpdated": "2026-04-09T15:17:07.903Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-unknown-bubu-mascot-2-f1e465c2.png": "6nnpwsmi6z_1775747748841_file_KOdiXH5xEp.png"
+    }
+  },
+  "pages/unknown/bubu": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-unknown-bubu-f1e465c2.png",
+    "searchQuery": "",
+    "alternatives": [
+      "/assets/bubutalk-boy-mascot.png"
+    ],
+    "userModified": true,
+    "sourceRef": "src/components/BubuChat.tsx:262",
+    "createdAt": "2026-04-09T15:17:13.463Z",
+    "lastUpdated": "2026-04-09T15:17:42.641Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-unknown-bubu-f1e465c2.png": "6nnpwsmi6z_1775747748841_file_KOdiXH5xEp.png"
+    }
+  },
+  "pages/home/bubu-mascot": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-bubu-mascot-f1e465c2.png",
+    "searchQuery": "",
+    "alternatives": [
+      "/assets/bubutalk-boy-mascot.png"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/index.tsx:545",
+    "createdAt": "2026-04-09T15:18:08.691Z",
+    "lastUpdated": "2026-04-09T15:18:26.727Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-bubu-mascot-f1e465c2.png": "6nnpwsmi6z_1775747748841_file_KOdiXH5xEp.png"
+    }
+  },
+  "pages/home/bubu-mascot-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-bubu-mascot-2-f1e465c2.png",
+    "searchQuery": "",
+    "alternatives": [
+      "/assets/bubutalk-boy-mascot.png"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/index.tsx:979",
+    "createdAt": "2026-04-09T15:18:43.208Z",
+    "lastUpdated": "2026-04-09T15:18:59.448Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-bubu-mascot-2-f1e465c2.png": "6nnpwsmi6z_1775747748841_file_KOdiXH5xEp.png"
+    }
+  },
+  "pages/auth-AuthPage/bubu": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-auth-AuthPage-bubu-f1e465c2.png",
+    "searchQuery": "",
+    "alternatives": [
+      "/bubu-logo-mascot.png"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/auth/AuthPage.tsx:166",
+    "createdAt": "2026-04-09T18:41:57.046Z",
+    "lastUpdated": "2026-04-09T18:42:11.537Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-auth-AuthPage-bubu-f1e465c2.png": "6nnpwsmi6z_1775747748841_file_KOdiXH5xEp.png"
+    }
+  },
+  "pages/dashboard/bubu": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-dashboard-bubu-f1e465c2.png",
+    "searchQuery": "",
+    "alternatives": [
+      "/bubu-logo-mascot.png"
+    ],
+    "userModified": true,
+    "sourceRef": "src/pages/dashboard.tsx:122",
+    "createdAt": "2026-04-09T18:43:37.164Z",
+    "lastUpdated": "2026-04-09T18:44:21.343Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-dashboard-bubu-f1e465c2.png": "6nnpwsmi6z_1775747748841_file_KOdiXH5xEp.png"
+    }
+  },
+  "pages/unknown/bubu-mascot-3": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-unknown-bubu-mascot-3-f1e465c2.png",
+    "searchQuery": "",
+    "alternatives": [
+      "/assets/bubu-logo-mascot.png"
+    ],
+    "userModified": true,
+    "sourceRef": "src/layouts/parts/Footer.tsx:27",
+    "createdAt": "2026-04-09T18:44:24.225Z",
+    "lastUpdated": "2026-04-09T18:44:52.515Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-unknown-bubu-mascot-3-f1e465c2.png": "6nnpwsmi6z_1775747748841_file_KOdiXH5xEp.png"
+    }
+  },
+  "pages/unknown/bubu-2": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-unknown-bubu-2-f1e465c2.png",
+    "searchQuery": "",
+    "alternatives": [
+      "/assets/bubutalk-boy-mascot.png"
+    ],
+    "userModified": true,
+    "sourceRef": "src/components/BubuChat.tsx:115",
+    "createdAt": "2026-04-09T18:54:47.949Z",
+    "lastUpdated": "2026-04-09T18:55:10.130Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-unknown-bubu-2-f1e465c2.png": "6nnpwsmi6z_1775747748841_file_KOdiXH5xEp.png"
+    }
+  }
+}
