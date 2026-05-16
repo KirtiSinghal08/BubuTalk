@@ -3,13 +3,13 @@ BubuTalk is a modern real-time communication platform inspired by interactive ap
 
 ## 🚀 Features
 
-**⚡ Lightning Fast**: Vite for instant hot module replacement and optimized builds
-**🎯 Type Safe**: Full TypeScript coverage across frontend and backend
-**🎨 Beautiful UI**: shadcn/ui components with Tailwind CSS
-**🧠 AI-Friendly**: Component introspection for AI development tools
-**📱 Responsive**: Mobile-first design with modern CSS
-**🔧 Developer Experience**: Hot reload, linting, formatting, and testing setup
-**🚀 Production Ready**: SSR support, optimized builds, and deployment-ready
+- **⚡ Lightning Fast**: Vite for instant hot module replacement and optimized builds
+- **🎯 Type Safe**: Full TypeScript coverage across frontend and backend
+- **🎨 Beautiful UI**: shadcn/ui components with Tailwind CSS
+- **🧠 AI-Friendly**: Component introspection for AI development tools
+- **📱 Responsive**: Mobile-first design with modern CSS
+- **🔧 Developer Experience**: Hot reload, linting, formatting, and testing setup
+- **🚀 Production Ready**: SSR support, optimized builds, and deployment-ready
 
 ## 🛠️ Tech Stack
 
