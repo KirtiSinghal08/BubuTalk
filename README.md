@@ -1,6 +1,5 @@
-# V8 App Template
-
-A modern, production-ready web application template built with Vite, React, and TypeScript. Designed for AI-assisted development with component introspection, layout systems, and excellent developer experience.
+# BubuTalk
+BubuTalk is a modern real-time communication platform inspired by interactive apps like Talking Tom and Duolingo, designed to make conversations fun, engaging, and meaningful. Seeing how kids today spend hours on phones and laptops, BubuTalk aims to transform screen time into something more useful, interactive, and productive through smart communication and learning-based experiences.
 
 ## 🚀 Features
 
